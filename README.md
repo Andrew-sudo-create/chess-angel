@@ -1,108 +1,44 @@
 # Chess Angel
 
-Your personal Chess.com analytics app that auto-syncs games daily and commits fresh data to GitHub.
+**Chess Angel** is a personal chess intelligence dashboard built for players who want more than basic stats.
 
-## What It Does
+Play your games on Chess.com, then come back to a clean analytics view of your growth, patterns, and habits.
 
-- Pulls your latest Chess.com games from the public API
-- Enriches games with player-perspective fields (`my_color`, `my_result`, ratings, opening info)
-- Generates frontend-ready datasets
-- Powers a dashboard with streaks, openings, tilt detection, and trend insights
-- Auto-commits new daily game data via GitHub Actions
+## Why It Exists
 
-## Project Structure
+Most chess stats tell you what happened. Chess Angel focuses on **why your results trend up or down**:
 
-```text
-chess-angel/
-├─ frontend/                      # Next.js dashboard UI
-│  └─ public/data/
-│     ├─ games.json
-│     └─ daily-summary.json
-├─ backend/                       # Sync + API service
-│  ├─ src/cli/sync.ts
-│  ├─ src/cli/sync-today.ts
-│  └─ src/server.ts
-└─ .github/workflows/
-   └─ daily-chess-sync.yml        # Daily auto-sync + auto-commit
-```
+- Which openings actually perform for you
+- Whether your sessions improve or collapse over time
+- When tilt starts and how often it repeats
+- How your rating moves across days, time controls, and streaks
 
-## How It Works
+## What You See
 
-1. `backend` fetches games from Chess.com archives for your username.
-2. Data is normalized and written to `frontend/public/data/*.json`.
-3. Frontend reads those files directly and renders insights.
-4. GitHub Actions runs daily, syncs new games, and commits only if files changed.
+- **Performance Dashboard**: wins, losses, draw mix, rating movement
+- **Opening Intelligence**: strongest and weakest opening families
+- **Streak Center**: win/loss streaks and overall activity streak
+- **Tilt Detector**: recent clusters of rapid losses
+- **Session Patterns**: grouped games that show your momentum swings
 
-This is not local file watching. The daily sync runs on GitHub servers.
+## Always Up to Date
 
-## Quick Start (Local)
+Chess Angel automatically syncs your latest Chess.com games daily and refreshes the analytics dataset.
 
-### 1) Backend setup
+When new games are found, the project data is updated and committed to GitHub automatically.  
+No manual file exports. No spreadsheet upkeep.
 
-```bash
-cd backend
-npm install
-```
+## Product Vision
 
-Create `backend/.env`:
+Chess Angel is designed to become your long-term chess performance journal:
 
-```env
-CHESS_USERNAME=your_chesscom_username
-PORT=4010
-SYNC_DAYS=120
-FRONTEND_DATA_DIR=../frontend/public/data
-```
+- Daily snapshots of progress
+- Historical trends you can trust
+- Clear signals on what to keep doing and what to fix
 
-Sync your games once:
+## Built For
 
-```bash
-npm run sync
-```
-
-### 2) Frontend setup
-
-```bash
-cd ../frontend
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-## Daily Auto-Commit on GitHub
-
-Workflow file: `.github/workflows/daily-chess-sync.yml`
-
-### One-time setup
-
-1. Push this repo to GitHub.
-2. Add repository secret:
-   - `CHESS_USERNAME` = your Chess.com username
-3. Run **Daily Chess Sync** once manually in the Actions tab.
-
-After that, it will run daily and:
-
-- call `npm run sync:today`
-- update `frontend/public/data/games.json` and `daily-summary.json`
-- commit and push only when data changed
-
-## Manual Sync Commands
-
-From `backend`:
-
-- `npm run sync` -> full sync (last `SYNC_DAYS`)
-- `npm run sync:today` -> today-only sync
-- `npm run dev` -> backend API server
-
-## Backend API
-
-- `GET /health`
-- `GET /api/games?days=30`
-- `GET /api/daily-summary`
-- `POST /api/sync`
-
-## Notes
-
-- Some Chess.com fields are inconsistent; opening names are derived from PGN headers/URLs when needed.
-- If no new games are found, no commit is created (expected behavior).
-- Scheduled workflows can run a few minutes late depending on GitHub Actions load.
+- Players climbing rating ladders
+- Streamers tracking form publicly
+- Coaches and students reviewing improvement over weeks and months
+- Anyone who wants objective feedback from their real games
