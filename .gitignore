@@ -1,0 +1,15 @@
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/.next/
+
+# Environment files
+**/.env
+**/.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db

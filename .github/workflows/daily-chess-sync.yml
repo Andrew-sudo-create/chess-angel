@@ -1,0 +1,75 @@
+name: Daily Chess Sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Sync mode"
+        required: true
+        default: "today"
+        type: choice
+        options:
+          - today
+          - full
+  schedule:
+    # 23:55 UTC daily (adjust to your preferred time)
+    - cron: "55 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-chess-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-and-commit:
+    runs-on: ubuntu-latest
+    env:
+      CHESS_USERNAME: ${{ secrets.CHESS_USERNAME }}
+      FRONTEND_DATA_DIR: ../frontend/public/data
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Validate required secret
+        run: |
+          if [ -z "${CHESS_USERNAME}" ]; then
+            echo "Missing CHESS_USERNAME secret."
+            echo "Set repository secret CHESS_USERNAME before running this workflow."
+            exit 1
+          fi
+
+      - name: Install backend dependencies
+        working-directory: backend
+        run: npm ci
+
+      - name: Sync chess data
+        working-directory: backend
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.mode }}" = "full" ]; then
+            npm run sync
+          else
+            npm run sync:today
+          fi
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- frontend/public/data/games.json frontend/public/data/daily-summary.json; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add frontend/public/data/games.json frontend/public/data/daily-summary.json
+          git commit -m "chore(data): sync chess games for $(date -u +'%Y-%m-%d')"
+          git push

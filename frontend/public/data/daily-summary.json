@@ -1,0 +1,1082 @@
+[
+  {
+    "date": "2026-01-01",
+    "games": 11,
+    "wins": 3,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 435
+  },
+  {
+    "date": "2026-01-02",
+    "games": 12,
+    "wins": 6,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 433
+  },
+  {
+    "date": "2026-01-03",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 432
+  },
+  {
+    "date": "2026-01-04",
+    "games": 12,
+    "wins": 6,
+    "draws": 1,
+    "losses": 5,
+    "ratingEnd": 440
+  },
+  {
+    "date": "2026-01-05",
+    "games": 21,
+    "wins": 12,
+    "draws": 0,
+    "losses": 9,
+    "ratingEnd": 464
+  },
+  {
+    "date": "2026-01-06",
+    "games": 9,
+    "wins": 7,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 504
+  },
+  {
+    "date": "2026-01-07",
+    "games": 6,
+    "wins": 5,
+    "draws": 1,
+    "losses": 0,
+    "ratingEnd": 544
+  },
+  {
+    "date": "2026-01-08",
+    "games": 8,
+    "wins": 2,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 513
+  },
+  {
+    "date": "2026-01-09",
+    "games": 5,
+    "wins": 1,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 489
+  },
+  {
+    "date": "2026-01-10",
+    "games": 16,
+    "wins": 12,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 547
+  },
+  {
+    "date": "2026-01-11",
+    "games": 11,
+    "wins": 4,
+    "draws": 0,
+    "losses": 7,
+    "ratingEnd": 523
+  },
+  {
+    "date": "2026-01-12",
+    "games": 15,
+    "wins": 7,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 515
+  },
+  {
+    "date": "2026-01-13",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 510
+  },
+  {
+    "date": "2026-01-14",
+    "games": 4,
+    "wins": 3,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 526
+  },
+  {
+    "date": "2026-01-15",
+    "games": 6,
+    "wins": 3,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 526
+  },
+  {
+    "date": "2026-01-16",
+    "games": 9,
+    "wins": 4,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 519
+  },
+  {
+    "date": "2026-01-17",
+    "games": 23,
+    "wins": 14,
+    "draws": 0,
+    "losses": 9,
+    "ratingEnd": 288
+  },
+  {
+    "date": "2026-01-18",
+    "games": 14,
+    "wins": 8,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 316
+  },
+  {
+    "date": "2026-01-19",
+    "games": 11,
+    "wins": 4,
+    "draws": 0,
+    "losses": 7,
+    "ratingEnd": 291
+  },
+  {
+    "date": "2026-01-20",
+    "games": 8,
+    "wins": 6,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 314
+  },
+  {
+    "date": "2026-01-21",
+    "games": 17,
+    "wins": 9,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 302
+  },
+  {
+    "date": "2026-01-22",
+    "games": 15,
+    "wins": 8,
+    "draws": 0,
+    "losses": 7,
+    "ratingEnd": 343
+  },
+  {
+    "date": "2026-01-23",
+    "games": 22,
+    "wins": 9,
+    "draws": 0,
+    "losses": 13,
+    "ratingEnd": 319
+  },
+  {
+    "date": "2026-01-24",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 551
+  },
+  {
+    "date": "2026-01-25",
+    "games": 3,
+    "wins": 1,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 552
+  },
+  {
+    "date": "2026-01-26",
+    "games": 14,
+    "wins": 7,
+    "draws": 1,
+    "losses": 6,
+    "ratingEnd": 343
+  },
+  {
+    "date": "2026-01-27",
+    "games": 24,
+    "wins": 15,
+    "draws": 0,
+    "losses": 9,
+    "ratingEnd": 416
+  },
+  {
+    "date": "2026-01-28",
+    "games": 16,
+    "wins": 10,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 409
+  },
+  {
+    "date": "2026-01-29",
+    "games": 32,
+    "wins": 16,
+    "draws": 0,
+    "losses": 16,
+    "ratingEnd": 401
+  },
+  {
+    "date": "2026-01-30",
+    "games": 19,
+    "wins": 7,
+    "draws": 1,
+    "losses": 11,
+    "ratingEnd": 384
+  },
+  {
+    "date": "2026-01-31",
+    "games": 8,
+    "wins": 3,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 698
+  },
+  {
+    "date": "2026-02-01",
+    "games": 7,
+    "wins": 4,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 701
+  },
+  {
+    "date": "2026-02-02",
+    "games": 10,
+    "wins": 5,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 540
+  },
+  {
+    "date": "2026-02-03",
+    "games": 7,
+    "wins": 2,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 525
+  },
+  {
+    "date": "2026-02-04",
+    "games": 8,
+    "wins": 3,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 681
+  },
+  {
+    "date": "2026-02-05",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 370
+  },
+  {
+    "date": "2026-02-06",
+    "games": 14,
+    "wins": 10,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 735
+  },
+  {
+    "date": "2026-02-07",
+    "games": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 742
+  },
+  {
+    "date": "2026-02-08",
+    "games": 9,
+    "wins": 6,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 767
+  },
+  {
+    "date": "2026-02-09",
+    "games": 9,
+    "wins": 3,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 744
+  },
+  {
+    "date": "2026-02-10",
+    "games": 7,
+    "wins": 4,
+    "draws": 1,
+    "losses": 2,
+    "ratingEnd": 761
+  },
+  {
+    "date": "2026-02-11",
+    "games": 6,
+    "wins": 3,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 761
+  },
+  {
+    "date": "2026-02-12",
+    "games": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 744
+  },
+  {
+    "date": "2026-02-13",
+    "games": 8,
+    "wins": 5,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 761
+  },
+  {
+    "date": "2026-02-14",
+    "games": 12,
+    "wins": 7,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 769
+  },
+  {
+    "date": "2026-02-15",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 761
+  },
+  {
+    "date": "2026-02-16",
+    "games": 6,
+    "wins": 4,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 777
+  },
+  {
+    "date": "2026-02-17",
+    "games": 7,
+    "wins": 4,
+    "draws": 1,
+    "losses": 2,
+    "ratingEnd": 790
+  },
+  {
+    "date": "2026-02-18",
+    "games": 9,
+    "wins": 5,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 806
+  },
+  {
+    "date": "2026-02-19",
+    "games": 8,
+    "wins": 5,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 821
+  },
+  {
+    "date": "2026-02-20",
+    "games": 11,
+    "wins": 2,
+    "draws": 1,
+    "losses": 8,
+    "ratingEnd": 774
+  },
+  {
+    "date": "2026-02-21",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 774
+  },
+  {
+    "date": "2026-02-22",
+    "games": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 782
+  },
+  {
+    "date": "2026-02-23",
+    "games": 4,
+    "wins": 1,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 766
+  },
+  {
+    "date": "2026-02-24",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 757
+  },
+  {
+    "date": "2026-02-25",
+    "games": 12,
+    "wins": 5,
+    "draws": 1,
+    "losses": 6,
+    "ratingEnd": 748
+  },
+  {
+    "date": "2026-02-26",
+    "games": 9,
+    "wins": 5,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 763
+  },
+  {
+    "date": "2026-02-27",
+    "games": 14,
+    "wins": 7,
+    "draws": 0,
+    "losses": 7,
+    "ratingEnd": 762
+  },
+  {
+    "date": "2026-02-28",
+    "games": 13,
+    "wins": 5,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 755
+  },
+  {
+    "date": "2026-03-01",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 749
+  },
+  {
+    "date": "2026-03-02",
+    "games": 12,
+    "wins": 7,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 766
+  },
+  {
+    "date": "2026-03-03",
+    "games": 5,
+    "wins": 1,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 741
+  },
+  {
+    "date": "2026-03-04",
+    "games": 6,
+    "wins": 2,
+    "draws": 2,
+    "losses": 2,
+    "ratingEnd": 742
+  },
+  {
+    "date": "2026-03-05",
+    "games": 5,
+    "wins": 1,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 726
+  },
+  {
+    "date": "2026-03-06",
+    "games": 10,
+    "wins": 6,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 509
+  },
+  {
+    "date": "2026-03-07",
+    "games": 22,
+    "wins": 11,
+    "draws": 0,
+    "losses": 11,
+    "ratingEnd": 507
+  },
+  {
+    "date": "2026-03-08",
+    "games": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 785
+  },
+  {
+    "date": "2026-03-09",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 776
+  },
+  {
+    "date": "2026-03-10",
+    "games": 9,
+    "wins": 5,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 791
+  },
+  {
+    "date": "2026-03-11",
+    "games": 19,
+    "wins": 14,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 855
+  },
+  {
+    "date": "2026-03-12",
+    "games": 9,
+    "wins": 4,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 865
+  },
+  {
+    "date": "2026-03-13",
+    "games": 13,
+    "wins": 4,
+    "draws": 1,
+    "losses": 8,
+    "ratingEnd": 841
+  },
+  {
+    "date": "2026-03-14",
+    "games": 13,
+    "wins": 4,
+    "draws": 0,
+    "losses": 9,
+    "ratingEnd": 515
+  },
+  {
+    "date": "2026-03-15",
+    "games": 3,
+    "wins": 3,
+    "draws": 0,
+    "losses": 0,
+    "ratingEnd": 840
+  },
+  {
+    "date": "2026-03-16",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 841
+  },
+  {
+    "date": "2026-03-17",
+    "games": 8,
+    "wins": 4,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 850
+  },
+  {
+    "date": "2026-03-18",
+    "games": 7,
+    "wins": 2,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 826
+  },
+  {
+    "date": "2026-03-19",
+    "games": 6,
+    "wins": 4,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 842
+  },
+  {
+    "date": "2026-03-20",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 841
+  },
+  {
+    "date": "2026-03-21",
+    "games": 7,
+    "wins": 5,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 874
+  },
+  {
+    "date": "2026-03-22",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 867
+  },
+  {
+    "date": "2026-03-23",
+    "games": 3,
+    "wins": 1,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 867
+  },
+  {
+    "date": "2026-03-24",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 866
+  },
+  {
+    "date": "2026-03-25",
+    "games": 6,
+    "wins": 2,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 850
+  },
+  {
+    "date": "2026-03-26",
+    "games": 12,
+    "wins": 4,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 819
+  },
+  {
+    "date": "2026-03-27",
+    "games": 11,
+    "wins": 3,
+    "draws": 1,
+    "losses": 7,
+    "ratingEnd": 786
+  },
+  {
+    "date": "2026-03-28",
+    "games": 8,
+    "wins": 3,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 771
+  },
+  {
+    "date": "2026-03-29",
+    "games": 7,
+    "wins": 5,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 803
+  },
+  {
+    "date": "2026-03-30",
+    "games": 18,
+    "wins": 7,
+    "draws": 0,
+    "losses": 11,
+    "ratingEnd": 769
+  },
+  {
+    "date": "2026-03-31",
+    "games": 15,
+    "wins": 7,
+    "draws": 0,
+    "losses": 8,
+    "ratingEnd": 769
+  },
+  {
+    "date": "2026-04-01",
+    "games": 6,
+    "wins": 2,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 753
+  },
+  {
+    "date": "2026-04-02",
+    "games": 9,
+    "wins": 4,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 753
+  },
+  {
+    "date": "2026-04-03",
+    "games": 20,
+    "wins": 15,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 840
+  },
+  {
+    "date": "2026-04-04",
+    "games": 15,
+    "wins": 6,
+    "draws": 1,
+    "losses": 8,
+    "ratingEnd": 819
+  },
+  {
+    "date": "2026-04-05",
+    "games": 3,
+    "wins": 1,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 811
+  },
+  {
+    "date": "2026-04-06",
+    "games": 10,
+    "wins": 6,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 834
+  },
+  {
+    "date": "2026-04-07",
+    "games": 5,
+    "wins": 1,
+    "draws": 1,
+    "losses": 3,
+    "ratingEnd": 818
+  },
+  {
+    "date": "2026-04-08",
+    "games": 2,
+    "wins": 1,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 817
+  },
+  {
+    "date": "2026-04-09",
+    "games": 6,
+    "wins": 4,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 833
+  },
+  {
+    "date": "2026-04-10",
+    "games": 13,
+    "wins": 9,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 876
+  },
+  {
+    "date": "2026-04-11",
+    "games": 6,
+    "wins": 3,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 877
+  },
+  {
+    "date": "2026-04-12",
+    "games": 5,
+    "wins": 4,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 902
+  },
+  {
+    "date": "2026-04-13",
+    "games": 8,
+    "wins": 6,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 933
+  },
+  {
+    "date": "2026-04-14",
+    "games": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 941
+  },
+  {
+    "date": "2026-04-15",
+    "games": 6,
+    "wins": 2,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 933
+  },
+  {
+    "date": "2026-04-16",
+    "games": 8,
+    "wins": 4,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 931
+  },
+  {
+    "date": "2026-04-17",
+    "games": 9,
+    "wins": 4,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 931
+  },
+  {
+    "date": "2026-04-18",
+    "games": 9,
+    "wins": 4,
+    "draws": 1,
+    "losses": 4,
+    "ratingEnd": 514
+  },
+  {
+    "date": "2026-04-19",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 513
+  },
+  {
+    "date": "2026-04-20",
+    "games": 4,
+    "wins": 3,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 521
+  },
+  {
+    "date": "2026-04-21",
+    "games": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 521
+  },
+  {
+    "date": "2026-04-22",
+    "games": 5,
+    "wins": 1,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 512
+  },
+  {
+    "date": "2026-04-23",
+    "games": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 486
+  },
+  {
+    "date": "2026-04-24",
+    "games": 6,
+    "wins": 0,
+    "draws": 0,
+    "losses": 6,
+    "ratingEnd": 875
+  },
+  {
+    "date": "2026-04-25",
+    "games": 8,
+    "wins": 4,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 851
+  },
+  {
+    "date": "2026-04-26",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 843
+  },
+  {
+    "date": "2026-04-27",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 470
+  },
+  {
+    "date": "2026-04-28",
+    "games": 7,
+    "wins": 5,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 494
+  },
+  {
+    "date": "2026-04-29",
+    "games": 7,
+    "wins": 4,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 379
+  },
+  {
+    "date": "2026-04-30",
+    "games": 15,
+    "wins": 11,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 419
+  },
+  {
+    "date": "2026-05-01",
+    "games": 6,
+    "wins": 2,
+    "draws": 0,
+    "losses": 4,
+    "ratingEnd": 426
+  },
+  {
+    "date": "2026-05-02",
+    "games": 7,
+    "wins": 6,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 425
+  },
+  {
+    "date": "2026-05-03",
+    "games": 7,
+    "wins": 2,
+    "draws": 0,
+    "losses": 5,
+    "ratingEnd": 535
+  },
+  {
+    "date": "2026-05-04",
+    "games": 6,
+    "wins": 3,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 392
+  },
+  {
+    "date": "2026-05-05",
+    "games": 7,
+    "wins": 4,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 553
+  },
+  {
+    "date": "2026-05-06",
+    "games": 4,
+    "wins": 1,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 536
+  },
+  {
+    "date": "2026-05-07",
+    "games": 4,
+    "wins": 2,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 538
+  },
+  {
+    "date": "2026-05-08",
+    "games": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 530
+  },
+  {
+    "date": "2026-05-10",
+    "games": 3,
+    "wins": 2,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 539
+  },
+  {
+    "date": "2026-05-12",
+    "games": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 531
+  },
+  {
+    "date": "2026-05-13",
+    "games": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "ratingEnd": 522
+  },
+  {
+    "date": "2026-05-14",
+    "games": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 498
+  },
+  {
+    "date": "2026-05-15",
+    "games": 6,
+    "wins": 4,
+    "draws": 1,
+    "losses": 1,
+    "ratingEnd": 498
+  },
+  {
+    "date": "2026-05-16",
+    "games": 9,
+    "wins": 6,
+    "draws": 0,
+    "losses": 3,
+    "ratingEnd": 522
+  },
+  {
+    "date": "2026-05-17",
+    "games": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "ratingEnd": 538
+  }
+]
