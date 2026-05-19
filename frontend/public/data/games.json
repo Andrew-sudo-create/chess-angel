@@ -40142,5 +40142,39 @@
     "my_result": "win",
     "my_rating": 538,
     "opponent_rating": 534
+  },
+  {
+    "url": "https://www.chess.com/game/live/168885932734",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.18\"]\n[Round \"-\"]\n[White \"tandksjsbsnsjfbsl\"]\n[Black \"SpiffyZipper\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"8/8/8/8/8/pk6/1p6/1K6 w - - 4 55\"]\n[Timezone \"UTC\"]\n[ECO \"C44\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6\"]\n[UTCDate \"2026.05.18\"]\n[UTCTime \"14:43:52\"]\n[WhiteElo \"539\"]\n[BlackElo \"538\"]\n[TimeControl \"300\"]\n[Termination \"Game drawn by stalemate\"]\n[StartTime \"14:43:52\"]\n[EndDate \"2026.05.18\"]\n[EndTime \"14:51:21\"]\n[Link \"https://www.chess.com/game/live/168885932734\"]\n\n1. e4 {[%clk 0:04:59]} 1... e5 {[%clk 0:04:58.4]} 2. Nf3 {[%clk 0:04:56.1]} 2... Nc6 {[%clk 0:04:47.6]} 3. b3 {[%clk 0:04:51.9]} 3... Bc5 {[%clk 0:04:46.5]} 4. Bb2 {[%clk 0:04:42.3]} 4... Qf6 {[%clk 0:04:43.6]} 5. Nc3 {[%clk 0:04:34.6]} 5... Nd4 {[%clk 0:04:42.2]} 6. Nxd4 {[%clk 0:04:30.9]} 6... Bxd4 {[%clk 0:04:41.1]} 7. Qf3 {[%clk 0:04:28.1]} 7... Bxc3 {[%clk 0:04:35.3]} 8. Qxf6 {[%clk 0:04:23.9]} 8... Bxd2+ {[%clk 0:04:19.2]} 9. Kxd2 {[%clk 0:04:17]} 9... Nxf6 {[%clk 0:04:18.2]} 10. f3 {[%clk 0:04:11.8]} 10... d6 {[%clk 0:04:09.1]} 11. Re1 {[%clk 0:04:03.5]} 11... Be6 {[%clk 0:03:56.6]} 12. Ke2 {[%clk 0:04:00]} 12... O-O-O {[%clk 0:03:37.1]} 13. Kd1 {[%clk 0:03:52.3]} 13... Rhe8 {[%clk 0:03:35.6]} 14. Kc1 {[%clk 0:03:47.7]} 14... d5 {[%clk 0:03:31.4]} 15. exd5 {[%clk 0:03:42.5]} 15... Bxd5 {[%clk 0:03:26.8]} 16. Bc4 {[%clk 0:03:41.3]} 16... Bxc4 {[%clk 0:03:19.4]} 17. bxc4 {[%clk 0:03:32.6]} 17... Nd7 {[%clk 0:03:17.2]} 18. Rd1 {[%clk 0:03:27.8]} 18... Nc5 {[%clk 0:03:12.8]} 19. Rhe1 {[%clk 0:03:23]} 19... Rxd1+ {[%clk 0:03:07.1]} 20. Rxd1 {[%clk 0:03:19.2]} 20... Na4 {[%clk 0:03:05.6]} 21. g4 {[%clk 0:03:07.9]} 21... Nxb2 {[%clk 0:03:04.2]} 22. Kxb2 {[%clk 0:02:55.3]} 22... e4 {[%clk 0:03:01.7]} 23. fxe4 {[%clk 0:02:51.8]} 23... Rxe4 {[%clk 0:03:00.4]} 24. Rf1 {[%clk 0:02:50.4]} 24... f6 {[%clk 0:02:58.4]} 25. g5 {[%clk 0:02:48.1]} 25... fxg5 {[%clk 0:02:53.7]} 26. Rf7 {[%clk 0:02:44.9]} 26... Rxc4 {[%clk 0:02:44.8]} 27. Rxg7 {[%clk 0:02:40.5]} 27... h6 {[%clk 0:02:44.1]} 28. Rh7 {[%clk 0:02:37.8]} 28... Rh4 {[%clk 0:02:43]} 29. Kc3 {[%clk 0:02:01.8]} 29... Rxh2 {[%clk 0:02:40.3]} 30. Kd4 {[%clk 0:01:59.1]} 30... h5 {[%clk 0:02:39.3]} 31. Ke5 {[%clk 0:01:55.8]} 31... g4 {[%clk 0:02:38.4]} 32. Kf4 {[%clk 0:01:53.2]} 32... Rxc2 {[%clk 0:02:31.1]} 33. Rxh5 {[%clk 0:01:51]} 33... Rxa2 {[%clk 0:02:30.1]} 34. Rh4 {[%clk 0:01:50.4]} 34... Ra4+ {[%clk 0:02:28.9]} 35. Kg3 {[%clk 0:01:48.9]} 35... c5 {[%clk 0:02:26.1]} 36. Rxg4 {[%clk 0:01:43.5]} 36... Rxg4+ {[%clk 0:02:22.3]} 37. Kxg4 {[%clk 0:01:40]} 37... c4 {[%clk 0:02:22]} 38. Kf4 {[%clk 0:01:38.9]} 38... c3 {[%clk 0:02:21.5]} 39. Ke3 {[%clk 0:01:38.4]} 39... c2 {[%clk 0:02:21]} 40. Kd2 {[%clk 0:01:38]} 40... a5 {[%clk 0:02:17.8]} 41. Kxc2 {[%clk 0:01:37.2]} 41... b5 {[%clk 0:02:17.2]} 42. Kb3 {[%clk 0:01:34.3]} 42... Kb7 {[%clk 0:02:16.8]} 43. Ka3 {[%clk 0:01:31.8]} 43... Kb6 {[%clk 0:02:15.8]} 44. Kb3 {[%clk 0:01:30.2]} 44... a4+ {[%clk 0:02:14.3]} 45. Kb4 {[%clk 0:01:28.9]} 45... Ka6 {[%clk 0:02:10.7]} 46. Ka3 {[%clk 0:01:26.8]} 46... Ka5 {[%clk 0:02:09.8]} 47. Ka2 {[%clk 0:01:22.7]} 47... b4 {[%clk 0:02:08.9]} 48. Kb2 {[%clk 0:01:21.6]} 48... a3+ {[%clk 0:02:08.2]} 49. Kb3 {[%clk 0:01:19.8]} 49... Kb5 {[%clk 0:02:07.5]} 50. Ka2 {[%clk 0:01:16.3]} 50... Ka4 {[%clk 0:02:06.7]} 51. Ka1 {[%clk 0:01:15.1]} 51... b3 {[%clk 0:02:06]} 52. Kb1 {[%clk 0:01:13.5]} 52... b2 {[%clk 0:01:58.4]} 53. Kc2 {[%clk 0:01:09.5]} 53... Kb4 {[%clk 0:01:54.2]} 54. Kb1 {[%clk 0:01:08]} 54... Kb3 {[%clk 0:01:52.9]} 1/2-1/2\n",
+    "time_control": "300",
+    "end_time": 1779115881,
+    "rated": true,
+    "tcn": "mC0Kgv5Qjr9Icj7TbsQBvBIBdvBsvTslel!TnvZRae6Slm86md?8dcRJCJSJfAJArATZedZIhe7dedIyoEyjcjKCvC8Cdf1TEMTMf1CA123V23AFjsFpsBVNBKMEKDpk3NkiNFiyDwYIFEyEwEIAEDAsDuskulWGlkXHkr6XrqXPqrGyrzPOzqOGqiHzijyqjrGHriHyiazrabrjbkyzkbzr",
+    "uuid": "fcf9e160-52c7-11f1-9372-e6ea8501000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/8/8/8/8/pk6/1p6/1K6 w - - 4 55",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 539,
+      "result": "stalemate",
+      "@id": "https://api.chess.com/pub/player/tandksjsbsnsjfbsl",
+      "username": "tandksjsbsnsjfbsl",
+      "uuid": "df53868a-1040-11f1-a133-81885af8607d"
+    },
+    "black": {
+      "rating": 538,
+      "result": "stalemate",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "eco": "C44",
+    "id": "fcf9e160-52c7-11f1-9372-e6ea8501000f",
+    "opening": "Kings Pawn Opening Kings Knight Variation 2 Nc6",
+    "my_color": "black",
+    "my_result": "stalemate",
+    "my_rating": 538,
+    "opponent_rating": 539
   }
 ]
