@@ -42,3 +42,5 @@ Chess Angel is designed to become your long-term chess performance journal:
 - Streamers tracking form publicly
 - Coaches and students reviewing improvement over weeks and months
 - Anyone who wants objective feedback from their real games
+
+getting badges boy
