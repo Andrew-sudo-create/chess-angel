@@ -1102,5 +1102,13 @@
     "draws": 0,
     "losses": 0,
     "ratingEnd": 554
+  },
+  {
+    "date": "2026-05-22",
+    "games": 3,
+    "wins": 1,
+    "draws": 0,
+    "losses": 2,
+    "ratingEnd": 547
   }
 ]
