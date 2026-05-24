@@ -40414,5 +40414,107 @@
     "my_result": "resigned",
     "my_rating": 547,
     "opponent_rating": 563
+  },
+  {
+    "url": "https://www.chess.com/game/live/169131421376",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.23\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"adryanokamei\"]\n[Result \"1-0\"]\n[CurrentPosition \"2k1r3/2p3R1/ppbp4/7Q/3P1N1P/2P5/PP3P2/2KR4 b - - 0 25\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Bf4\"]\n[UTCDate \"2026.05.23\"]\n[UTCTime \"17:05:26\"]\n[WhiteElo \"555\"]\n[BlackElo \"540\"]\n[TimeControl \"300\"]\n[Termination \"SpiffyZipper won by resignation\"]\n[StartTime \"17:05:26\"]\n[EndDate \"2026.05.23\"]\n[EndTime \"17:12:01\"]\n[Link \"https://www.chess.com/game/live/169131421376\"]\n\n1. d4 {[%clk 0:04:56.9]} 1... e6 {[%clk 0:04:54.8]} 2. Bf4 {[%clk 0:04:55.5]} 2... g6 {[%clk 0:04:45.4]} 3. e3 {[%clk 0:04:54.3]} 3... Bg7 {[%clk 0:04:44.1]} 4. Bd3 {[%clk 0:04:53.3]} 4... b6 {[%clk 0:04:42.6]} 5. c3 {[%clk 0:04:52.5]} 5... Bb7 {[%clk 0:04:41.9]} 6. Nf3 {[%clk 0:04:51.8]} 6... h6 {[%clk 0:04:39.9]} 7. h4 {[%clk 0:04:46.4]} 7... h5 {[%clk 0:04:22.8]} 8. Ne5 {[%clk 0:04:39.7]} 8... Bxg2 {[%clk 0:04:00.5]} 9. Rg1 {[%clk 0:04:36.3]} 9... Bb7 {[%clk 0:03:47]} 10. Nd2 {[%clk 0:04:32.3]} 10... a6 {[%clk 0:03:35.6]} 11. Ndf3 {[%clk 0:04:30.7]} 11... d6 {[%clk 0:03:15.4]} 12. Bg5 {[%clk 0:04:27.9]} 12... f6 {[%clk 0:03:08.4]} 13. Nxg6 {[%clk 0:04:20.1]} 13... Rh7 {[%clk 0:03:01.9]} 14. Bf4 {[%clk 0:04:13.6]} 14... Nc6 {[%clk 0:02:40.2]} 15. Nge5 {[%clk 0:03:51.2]} 15... fxe5 {[%clk 0:02:34.8]} 16. Bxh7 {[%clk 0:03:49.6]} 16... exf4 {[%clk 0:02:14.9]} 17. Rxg7 {[%clk 0:03:45.9]} 17... Nce7 {[%clk 0:02:05.4]} 18. Bxg8 {[%clk 0:03:42.1]} 18... Qd7 {[%clk 0:01:58.2]} 19. Ng5 {[%clk 0:03:36.6]} 19... O-O-O {[%clk 0:01:56.5]} 20. Bxe6 {[%clk 0:03:32.2]} 20... Qxe6 {[%clk 0:01:46.5]} 21. Nxe6 {[%clk 0:03:28.9]} 21... Re8 {[%clk 0:01:45.1]} 22. Qxh5 {[%clk 0:03:22.9]} 22... Bc6 {[%clk 0:01:29.2]} 23. exf4 {[%clk 0:03:07.9]} 23... Nd5 {[%clk 0:01:11.5]} 24. O-O-O {[%clk 0:02:52.8]} 24... Nxf4 {[%clk 0:00:56.1]} 25. Nxf4 {[%clk 0:02:50.7]} 1-0\n",
+    "time_control": "300",
+    "end_time": 1779556321,
+    "rated": true,
+    "tcn": "lB0ScD2Umu92ftXPks6Xgv3VpFVNvKXohgoXblWOlvZRDM1TKU?3MD5QUKTKt3KDg2Q03!7ZvM86!SZSMS78dNXQuD0JecJDSD",
+    "uuid": "984a08ea-56c9-11f1-8a69-dff90e01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2k1r3/2p3R1/ppbp4/7Q/3P1N1P/2P5/PP3P2/2KR4 b - - 0 25",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 555,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 540,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/adryanokamei",
+      "username": "adryanokamei",
+      "uuid": "07f1e6e8-b05b-11ed-8f90-d1e0d3e95a06"
+    },
+    "eco": "A40",
+    "id": "984a08ea-56c9-11f1-8a69-dff90e01000f",
+    "opening": "Queens Pawn Opening Horwitz Defense Bf4",
+    "my_color": "white",
+    "my_result": "win",
+    "my_rating": 555,
+    "opponent_rating": 540
+  },
+  {
+    "url": "https://www.chess.com/game/live/169132753274",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.23\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"Jebson12\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1b1k2r/p4ppp/2B1p3/3p4/3PnB2/4PK2/PP3PPP/2bQ3R b kq - 0 14\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Krause-Variation...4.Bf4-Nc6-5.e3-Nf6\"]\n[UTCDate \"2026.05.23\"]\n[UTCTime \"17:37:37\"]\n[WhiteElo \"843\"]\n[BlackElo \"1165\"]\n[TimeControl \"600\"]\n[Termination \"SpiffyZipper won by resignation\"]\n[StartTime \"17:37:37\"]\n[EndDate \"2026.05.23\"]\n[EndTime \"17:40:21\"]\n[Link \"https://www.chess.com/game/live/169132753274\"]\n\n1. d4 {[%clk 0:10:00]} 1... e6 {[%clk 0:10:00]} 2. Bf4 {[%clk 0:09:58.4]} 2... c5 {[%clk 0:09:58.3]} 3. e3 {[%clk 0:09:56.9]} 3... d5 {[%clk 0:09:51.5]} 4. c3 {[%clk 0:09:55.2]} 4... Nc6 {[%clk 0:09:47.5]} 5. Nf3 {[%clk 0:09:47.5]} 5... Nf6 {[%clk 0:09:43.6]} 6. Ne5 {[%clk 0:09:45.9]} 6... cxd4 {[%clk 0:09:31.4]} 7. cxd4 {[%clk 0:09:41.8]} 7... Qa5+ {[%clk 0:09:27]} 8. Nd2 {[%clk 0:09:39.2]} 8... Ne4 {[%clk 0:09:22]} 9. Rc1 {[%clk 0:09:24.6]} 9... Bb4 {[%clk 0:09:16.3]} 10. Nxc6 {[%clk 0:09:10.7]} 10... Bxd2+ {[%clk 0:09:07.9]} 11. Ke2 {[%clk 0:09:00.1]} 11... Qb5+ {[%clk 0:09:00.6]} 12. Kf3 {[%clk 0:08:53.8]} 12... Bxc1 {[%clk 0:08:53.5]} 13. Bxb5 {[%clk 0:08:52.3]} 13... bxc6 {[%clk 0:08:41.8]} 14. Bxc6+ {[%clk 0:08:50.7]} 1-0\n",
+    "time_control": "600",
+    "end_time": 1779558021,
+    "rated": false,
+    "tcn": "lB0ScDYImuZJks5Qgv!TvKIBsB7GblTCac9zKQzlemGHmvlcfHXQHQ",
+    "uuid": "16ffa396-56ce-11f1-ae89-2b507e01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1k2r/p4ppp/2B1p3/3p4/3PnB2/4PK2/PP3PPP/2bQ3R b kq - 0 14",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 843,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 1165,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jebson12",
+      "username": "Jebson12",
+      "uuid": "9eead708-0a13-11eb-a2f3-17b7521c4545"
+    },
+    "eco": "D02",
+    "id": "16ffa396-56ce-11f1-ae89-2b507e01000f",
+    "opening": "Queens Pawn Opening Krause Variation Bf4 Nc6 e3 Nf6",
+    "my_color": "white",
+    "my_result": "win",
+    "my_rating": 843,
+    "opponent_rating": 1165
+  },
+  {
+    "url": "https://www.chess.com/game/live/169132869506",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.23\"]\n[Round \"-\"]\n[White \"Jebson12\"]\n[Black \"SpiffyZipper\"]\n[Result \"0-1\"]\n[CurrentPosition \"r7/p1n1k1rp/4p3/5p1B/4p3/8/PP3RPP/6K1 w - - 0 26\"]\n[Timezone \"UTC\"]\n[ECO \"D37\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Three-Knights-Barmen-Variation-5.Bf4-c6\"]\n[UTCDate \"2026.05.23\"]\n[UTCTime \"17:40:26\"]\n[WhiteElo \"1165\"]\n[BlackElo \"843\"]\n[TimeControl \"600\"]\n[Termination \"SpiffyZipper won by resignation\"]\n[StartTime \"17:40:26\"]\n[EndDate \"2026.05.23\"]\n[EndTime \"17:51:08\"]\n[Link \"https://www.chess.com/game/live/169132869506\"]\n\n1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:10:00]} 2. Nf3 {[%clk 0:09:58.3]} 2... Nf6 {[%clk 0:09:57]} 3. c4 {[%clk 0:09:54.3]} 3... c6 {[%clk 0:09:54]} 4. Bf4 {[%clk 0:09:51.6]} 4... Nbd7 {[%clk 0:09:46.4]} 5. Nc3 {[%clk 0:09:48.3]} 5... e6 {[%clk 0:09:32.7]} 6. c5 {[%clk 0:09:45.8]} 6... Ne4 {[%clk 0:09:30.3]} 7. e3 {[%clk 0:09:36.2]} 7... Ndf6 {[%clk 0:09:18.2]} 8. Nd2 {[%clk 0:09:24.4]} 8... Qa5 {[%clk 0:09:11.8]} 9. Qc2 {[%clk 0:09:00.4]} 9... b6 {[%clk 0:08:43.5]} 10. Ncxe4 {[%clk 0:08:50.5]} 10... dxe4 {[%clk 0:08:39.5]} 11. Be2 {[%clk 0:08:34]} 11... bxc5 {[%clk 0:08:34.1]} 12. dxc5 {[%clk 0:08:32]} 12... Nd5 {[%clk 0:08:27.3]} 13. Be5 {[%clk 0:08:22.8]} 13... Bxc5 {[%clk 0:08:18.9]} 14. O-O {[%clk 0:08:13]} 14... f5 {[%clk 0:07:47.6]} 15. Nb3 {[%clk 0:07:48.8]} 15... Nxe3 {[%clk 0:06:33.6]} 16. Nxa5 {[%clk 0:06:12.2]} 16... Nxc2 {[%clk 0:06:15.4]} 17. Rac1 {[%clk 0:05:57.4]} 17... Bxf2+ {[%clk 0:06:02.1]} 18. Rxf2 {[%clk 0:05:51.8]} 18... Ne3 {[%clk 0:05:59.7]} 19. Rxc6 {[%clk 0:05:40]} 19... Bd7 {[%clk 0:05:50.3]} 20. Bxg7 {[%clk 0:05:26.8]} 20... Rg8 {[%clk 0:05:39.8]} 21. Rc3 {[%clk 0:05:22.8]} 21... Nd5 {[%clk 0:05:20.8]} 22. Bh5+ {[%clk 0:05:13.3]} 22... Ke7 {[%clk 0:05:08.6]} 23. Nc6+ {[%clk 0:05:12]} 23... Bxc6 {[%clk 0:05:04.5]} 24. Rxc6 {[%clk 0:05:10.4]} 24... Rxg7 {[%clk 0:04:58.4]} 25. Rc7+ {[%clk 0:04:53.9]} 25... Nxc7 {[%clk 0:04:56.3]} 0-1\n",
+    "time_control": "600",
+    "end_time": 1779558668,
+    "rated": false,
+    "tcn": "lBZJgv!TkAYQcD5Zbs0SAITCmuZTvl7GdkXPsCJCfmPIBITJDK9Ieg1LlrJurGukacInfnkucQ6ZK2?!QsuJmN80GQZQsQ!2QYJY",
+    "uuid": "7c02b5a2-56ce-11f1-aeec-b5154d01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r7/p1n1k1rp/4p3/5p1B/4p3/8/PP3RPP/6K1 w - - 0 26",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 1165,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jebson12",
+      "username": "Jebson12",
+      "uuid": "9eead708-0a13-11eb-a2f3-17b7521c4545"
+    },
+    "black": {
+      "rating": 843,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "eco": "D37",
+    "id": "7c02b5a2-56ce-11f1-aeec-b5154d01000f",
+    "opening": "Queens Gambit Declined Three Knights Barmen Variation Bf4 c6",
+    "my_color": "black",
+    "my_result": "win",
+    "my_rating": 843,
+    "opponent_rating": 1165
   }
 ]
