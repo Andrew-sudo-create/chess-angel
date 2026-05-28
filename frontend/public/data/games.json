@@ -40962,5 +40962,39 @@
     "my_result": "timeout",
     "my_rating": 569,
     "opponent_rating": 602
+  },
+  {
+    "url": "https://www.chess.com/game/live/169317707846",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.27\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"hermansory\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2r2k1/pp1Nbppp/8/1B1p4/4PP2/2p5/Pq5P/R1KQR3 w - - 1 24\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3\"]\n[UTCDate \"2026.05.27\"]\n[UTCTime \"15:08:48\"]\n[WhiteElo \"561\"]\n[BlackElo \"589\"]\n[TimeControl \"300\"]\n[Termination \"hermansory won by checkmate\"]\n[StartTime \"15:08:48\"]\n[EndDate \"2026.05.27\"]\n[EndTime \"15:13:46\"]\n[Link \"https://www.chess.com/game/live/169317707846\"]\n\n1. d4 {[%clk 0:04:59.7]} 1... Nc6 {[%clk 0:04:58.6]} 2. Nf3 {[%clk 0:04:53.4]} 2... Nf6 {[%clk 0:04:57.3]} 3. Bf4 {[%clk 0:04:52.6]} 3... Ne4 {[%clk 0:04:54]} 4. e3 {[%clk 0:04:49.1]} 4... d5 {[%clk 0:04:51.2]} 5. c3 {[%clk 0:04:47.7]} 5... Bg4 {[%clk 0:04:45.6]} 6. Bd3 {[%clk 0:04:42.8]} 6... Bxf3 {[%clk 0:04:34.4]} 7. gxf3 {[%clk 0:04:41.5]} 7... Nxf2 {[%clk 0:04:24.3]} 8. Kxf2 {[%clk 0:04:39.9]} 8... e5 {[%clk 0:04:19.8]} 9. dxe5 {[%clk 0:04:36.9]} 9... Qh4+ {[%clk 0:04:18.1]} 10. Bg3 {[%clk 0:04:34.4]} 10... Qh5 {[%clk 0:04:03]} 11. Nd2 {[%clk 0:04:21.4]} 11... Nxe5 {[%clk 0:04:01.6]} 12. Bxe5 {[%clk 0:04:10.4]} 12... Qxe5 {[%clk 0:03:58.3]} 13. f4 {[%clk 0:04:07.3]} 13... Qe6 {[%clk 0:03:44.6]} 14. Nf3 {[%clk 0:04:02.9]} 14... Bc5 {[%clk 0:03:42.8]} 15. Re1 {[%clk 0:03:58.1]} 15... O-O {[%clk 0:03:30.5]} 16. b4 {[%clk 0:03:49.5]} 16... Be7 {[%clk 0:03:16.7]} 17. Ke2 {[%clk 0:03:43.6]} 17... Qh3 {[%clk 0:03:09.5]} 18. Kd2 {[%clk 0:03:36]} 18... Qg2+ {[%clk 0:03:06.8]} 19. Kc1 {[%clk 0:03:30.3]} 19... c5 {[%clk 0:02:48.9]} 20. Ne5 {[%clk 0:03:22.5]} 20... cxb4 {[%clk 0:02:41.6]} 21. Nd7 {[%clk 0:03:18]} 21... Rfd8 {[%clk 0:02:25.9]} 22. Bb5 {[%clk 0:03:10]} 22... bxc3 {[%clk 0:02:13.7]} 23. e4 {[%clk 0:03:00.5]} 23... Qb2# {[%clk 0:02:11.7]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1779894826,
+    "rated": true,
+    "tcn": "lB5Qgv!TcDTCmuZJks6EftEvovCnen0KBK7FDwFNblQKwKNKvDKSlv9Ihe8!jzI0nmSxmlxolcYIvKIzKZ97tHzsuCoj",
+    "uuid": "f68435cf-59dd-11f1-8a69-dff90e01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2r2k1/pp1Nbppp/8/1B1p4/4PP2/2p5/Pq5P/R1KQR3 w - - 1 24",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 561,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 589,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/hermansory",
+      "username": "hermansory",
+      "uuid": "d80ccc78-9b32-11ed-bd69-6d218cdf3521"
+    },
+    "eco": "A40",
+    "id": "f68435cf-59dd-11f1-8a69-dff90e01000f",
+    "opening": "Queens Pawn Opening Mikenas Defense Nf3",
+    "my_color": "white",
+    "my_result": "checkmated",
+    "my_rating": 561,
+    "opponent_rating": 589
   }
 ]
