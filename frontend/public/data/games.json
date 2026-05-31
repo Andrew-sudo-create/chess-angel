@@ -41208,5 +41208,39 @@
     "my_result": "timeout",
     "my_rating": 585,
     "opponent_rating": 623
+  },
+  {
+    "url": "https://www.chess.com/game/live/169461329962",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.30\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"Jebson12\"]\n[Result \"0-1\"]\n[CurrentPosition \"5r1k/pb3p2/1p2p1BP/8/3p1P2/1P4K1/P7/r7 w - - 0 30\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Krause-Variation...4.Bf4-Nc6-5.e3-Bd6\"]\n[UTCDate \"2026.05.30\"]\n[UTCTime \"14:23:27\"]\n[WhiteElo \"585\"]\n[BlackElo \"992\"]\n[TimeControl \"300\"]\n[Termination \"Jebson12 won by resignation\"]\n[StartTime \"14:23:27\"]\n[EndDate \"2026.05.30\"]\n[EndTime \"14:28:24\"]\n[Link \"https://www.chess.com/game/live/169461329962\"]\n\n1. d4 {[%clk 0:05:00]} 1... e6 {[%clk 0:05:00]} 2. Bf4 {[%clk 0:04:58.4]} 2... c5 {[%clk 0:04:58.9]} 3. e3 {[%clk 0:04:56.1]} 3... Nc6 {[%clk 0:04:57.3]} 4. c3 {[%clk 0:04:54.7]} 4... d5 {[%clk 0:04:56.2]} 5. Nf3 {[%clk 0:04:52.6]} 5... Bd6 {[%clk 0:04:50.1]} 6. Bd3 {[%clk 0:04:46.4]} 6... Bxf4 {[%clk 0:04:49.1]} 7. exf4 {[%clk 0:04:44.6]} 7... cxd4 {[%clk 0:04:47.5]} 8. cxd4 {[%clk 0:04:40.7]} 8... Nf6 {[%clk 0:04:46.3]} 9. Nbd2 {[%clk 0:04:27.2]} 9... Qb6 {[%clk 0:04:44.8]} 10. b3 {[%clk 0:04:18.3]} 10... Nxd4 {[%clk 0:04:42.9]} 11. Nxd4 {[%clk 0:04:16.4]} 11... Qxd4 {[%clk 0:04:41.9]} 12. Nf3 {[%clk 0:04:11.5]} 12... Qb4+ {[%clk 0:04:35]} 13. Qd2 {[%clk 0:03:57.6]} 13... Qxd2+ {[%clk 0:04:33.5]} 14. Nxd2 {[%clk 0:03:56.5]} 14... O-O {[%clk 0:04:32.3]} 15. h4 {[%clk 0:03:53.1]} 15... b6 {[%clk 0:04:24.5]} 16. Nf3 {[%clk 0:03:52]} 16... Bb7 {[%clk 0:04:22.6]} 17. Ng5 {[%clk 0:03:47.8]} 17... Rac8 {[%clk 0:04:19.9]} 18. h5 {[%clk 0:03:24.3]} 18... h6 {[%clk 0:04:14.6]} 19. g4 {[%clk 0:03:16.1]} 19... hxg5 {[%clk 0:04:12.5]} 20. fxg5 {[%clk 0:03:10.9]} 20... Nxg4 {[%clk 0:04:08.7]} 21. h6 {[%clk 0:03:07.4]} 21... gxh6 {[%clk 0:04:06.9]} 22. gxh6 {[%clk 0:03:06.3]} 22... Kh8 {[%clk 0:04:03.9]} 23. f3 {[%clk 0:02:33.2]} 23... Ne5 {[%clk 0:03:58.4]} 24. Bb1 {[%clk 0:02:23.6]} 24... Rc1+ {[%clk 0:03:53.8]} 25. Kf2 {[%clk 0:02:17.2]} 25... Rxh1 {[%clk 0:03:49.8]} 26. Kg2 {[%clk 0:02:15.9]} 26... Rc1 {[%clk 0:03:42.3]} 27. f4 {[%clk 0:02:11]} 27... d4+ {[%clk 0:03:37]} 28. Kg3 {[%clk 0:02:07.5]} 28... Ng6 {[%clk 0:03:30.3]} 29. Bxg6 {[%clk 0:02:02.7]} 29... Rxa1 {[%clk 0:03:26.9]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1780151304,
+    "rated": false,
+    "tcn": "lB0ScDYImu5QksZJgv9RftRDuDIBsB!Tbl7PjrQBvBPBlvBzdlzlvl8!pFXPlv6XvM46FN3VoEVMDMTENV2VMV!?nvEKtb6cenchnohcvDJBowKUbUca",
+    "uuid": "1fb5ee0b-5c33-11f1-aec5-04b90d01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5r1k/pb3p2/1p2p1BP/8/3p1P2/1P4K1/P7/r7 w - - 0 30",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 585,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 992,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jebson12",
+      "username": "Jebson12",
+      "uuid": "9eead708-0a13-11eb-a2f3-17b7521c4545"
+    },
+    "eco": "D02",
+    "id": "1fb5ee0b-5c33-11f1-aec5-04b90d01000f",
+    "opening": "Queens Pawn Opening Krause Variation Bf4 Nc6 e3 Bd6",
+    "my_color": "white",
+    "my_result": "resigned",
+    "my_rating": 585,
+    "opponent_rating": 992
   }
 ]
