@@ -41450,5 +41450,39 @@
     "my_result": "timeout",
     "my_rating": 562,
     "opponent_rating": 578
+  },
+  {
+    "url": "https://www.chess.com/game/live/169643885542",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.03\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"Chavezepy\"]\n[Result \"0-1\"]\n[CurrentPosition \"rn2k1nr/ppp2ppp/8/2bPP3/5P2/6Pb/PP2P2P/RNBQKBq1 w Qkq - 0 9\"]\n[Timezone \"UTC\"]\n[ECO \"D08\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit-3.dxe5\"]\n[UTCDate \"2026.06.03\"]\n[UTCTime \"10:27:52\"]\n[WhiteElo \"554\"]\n[BlackElo \"582\"]\n[TimeControl \"300\"]\n[Termination \"Chavezepy won by resignation\"]\n[StartTime \"10:27:52\"]\n[EndDate \"2026.06.03\"]\n[EndTime \"10:29:43\"]\n[Link \"https://www.chess.com/game/live/169643885542\"]\n\n1. d4 {[%clk 0:04:53.2]} 1... e5 {[%clk 0:04:59.8]} 2. dxe5 {[%clk 0:04:51.4]} 2... d5 {[%clk 0:04:57.4]} 3. c4 {[%clk 0:04:46.4]} 3... Bc5 {[%clk 0:04:52.3]} 4. cxd5 {[%clk 0:04:42.6]} 4... Qh4 {[%clk 0:04:49.8]} 5. g3 {[%clk 0:04:38.1]} 5... Qe4 {[%clk 0:04:46.3]} 6. f4 {[%clk 0:04:08.2]} 6... Qxh1 {[%clk 0:04:41.5]} 7. Nf3 {[%clk 0:04:02.8]} 7... Bh3 {[%clk 0:04:36]} 8. Ng1 {[%clk 0:03:48.8]} 8... Qxg1 {[%clk 0:04:32.6]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1780482583,
+    "rated": true,
+    "tcn": "lB0KBKZJkA9IAJ7FowFCnDChgv6xvghg",
+    "uuid": "e0afdb86-5f36-11f1-9877-f2967901000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn2k1nr/ppp2ppp/8/2bPP3/5P2/6Pb/PP2P2P/RNBQKBq1 w Qkq - 0 9",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 554,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 582,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/chavezepy",
+      "username": "Chavezepy",
+      "uuid": "0e1ac872-8f66-11f0-90bd-3d4e0c44c0a1"
+    },
+    "eco": "D08",
+    "id": "e0afdb86-5f36-11f1-9877-f2967901000f",
+    "opening": "Queens Gambit Declined Albin Countergambit dxe5",
+    "my_color": "white",
+    "my_result": "resigned",
+    "my_rating": 554,
+    "opponent_rating": 582
   }
 ]
