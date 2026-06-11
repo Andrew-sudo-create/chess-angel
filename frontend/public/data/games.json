@@ -41934,5 +41934,39 @@
     "my_result": "win",
     "my_rating": 579,
     "opponent_rating": 583
+  },
+  {
+    "url": "https://www.chess.com/game/live/169988692384",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.10\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"G0d_Uss0p\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2r3k/p1pn3p/1p2p2B/4Pp2/1P5b/2P1PP2/P6P/3K1bR1 b - - 2 22\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense...3.Bf4-Nf6-4.e3-b6\"]\n[UTCDate \"2026.06.10\"]\n[UTCTime \"12:25:58\"]\n[WhiteElo \"571\"]\n[BlackElo \"578\"]\n[TimeControl \"300\"]\n[Termination \"G0d_Uss0p won by resignation\"]\n[StartTime \"12:25:58\"]\n[EndDate \"2026.06.10\"]\n[EndTime \"12:30:54\"]\n[Link \"https://www.chess.com/game/live/169988692384\"]\n\n1. d4 {[%clk 0:04:59.8]} 1... f5 {[%clk 0:04:56.6]} 2. Bf4 {[%clk 0:04:57.9]} 2... e6 {[%clk 0:04:54.9]} 3. e3 {[%clk 0:04:57.1]} 3... Nf6 {[%clk 0:04:46.8]} 4. Nf3 {[%clk 0:04:55.8]} 4... b6 {[%clk 0:04:44.3]} 5. Ne5 {[%clk 0:04:54.2]} 5... Bb7 {[%clk 0:04:37.4]} 6. c3 {[%clk 0:04:52.9]} 6... d6 {[%clk 0:04:31.7]} 7. Bd3 {[%clk 0:04:50.8]} 7... dxe5 {[%clk 0:04:28]} 8. dxe5 {[%clk 0:04:49.6]} 8... Ne4 {[%clk 0:04:25.1]} 9. Nd2 {[%clk 0:04:37.9]} 9... Qxd3 {[%clk 0:04:12]} 10. Nxe4 {[%clk 0:04:31.1]} 10... Qxe4 {[%clk 0:04:04]} 11. Qd2 {[%clk 0:04:23]} 11... Bc5 {[%clk 0:03:45.1]} 12. Rd1 {[%clk 0:04:15.8]} 12... O-O {[%clk 0:03:38.1]} 13. b4 {[%clk 0:04:14.3]} 13... Qxg2 {[%clk 0:03:34.5]} 14. Rf1 {[%clk 0:04:09.7]} 14... Be7 {[%clk 0:03:26.8]} 15. f3 {[%clk 0:03:55.7]} 15... Qxd2+ {[%clk 0:03:00.5]} 16. Rxd2 {[%clk 0:03:50.7]} 16... Rd8 {[%clk 0:02:47.5]} 17. Rg2 {[%clk 0:03:46.7]} 17... Nd7 {[%clk 0:02:43.3]} 18. Bh6 {[%clk 0:03:22.3]} 18... Bh4+ {[%clk 0:02:38.1]} 19. Ke2 {[%clk 0:03:01.6]} 19... Ba6+ {[%clk 0:02:35.4]} 20. Kd1 {[%clk 0:02:59.6]} 20... Bxf1 {[%clk 0:02:33.6]} 21. Rxg7+ {[%clk 0:02:57.4]} 21... Kh8 {[%clk 0:02:29.4]} 22. Rg1 {[%clk 0:02:51.5]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1781094654,
+    "rated": true,
+    "tcn": "lB1LcD0Smu!TgvXPvK6XksZRftRKBKTCbl7tlCtCdl9Iad8!jzCohfI0nvoldl97lo5ZDV0FemXOmdOfo2!?2g",
+    "uuid": "88b838c0-64c7-11f1-bb4e-85797f01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2r3k/p1pn3p/1p2p2B/4Pp2/1P5b/2P1PP2/P6P/3K1bR1 b - - 2 22",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 571,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 578,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/g0d_uss0p",
+      "username": "G0d_Uss0p",
+      "uuid": "b04e867e-a0b7-11ed-a166-953fb3498524"
+    },
+    "eco": "A40",
+    "id": "88b838c0-64c7-11f1-bb4e-85797f01000f",
+    "opening": "Queens Pawn Opening Horwitz Defense Bf4 Nf6 e3 b6",
+    "my_color": "white",
+    "my_result": "resigned",
+    "my_rating": 571,
+    "opponent_rating": 578
   }
 ]
