@@ -41968,5 +41968,77 @@
     "my_result": "resigned",
     "my_rating": 571,
     "opponent_rating": 578
+  },
+  {
+    "url": "https://www.chess.com/game/live/170030867536",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.11\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"satyavratawasthi1\"]\n[Result \"0-1\"]\n[CurrentPosition \"1k6/p1p5/1p2r3/3p4/5P2/N7/PP4qP/3RK3 w - - 0 32\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4-Bd6\"]\n[UTCDate \"2026.06.11\"]\n[UTCTime \"09:20:24\"]\n[WhiteElo \"563\"]\n[BlackElo \"571\"]\n[TimeControl \"300\"]\n[Termination \"satyavratawasthi1 won by checkmate\"]\n[StartTime \"09:20:24\"]\n[EndDate \"2026.06.11\"]\n[EndTime \"09:25:32\"]\n[Link \"https://www.chess.com/game/live/170030867536\"]\n\n1. d4 {[%clk 0:04:59.8]} 1... d5 {[%clk 0:04:58.3]} 2. Bf4 {[%clk 0:04:58.7]} 2... e6 {[%clk 0:04:56.4]} 3. Nf3 {[%clk 0:04:57.6]} 3... Bd6 {[%clk 0:04:54.8]} 4. Ne5 {[%clk 0:04:55.7]} 4... Bxe5 {[%clk 0:04:47.8]} 5. dxe5 {[%clk 0:04:54.6]} 5... Nc6 {[%clk 0:04:45.7]} 6. e3 {[%clk 0:04:53.2]} 6... Bd7 {[%clk 0:04:44.4]} 7. c3 {[%clk 0:04:52]} 7... Qe7 {[%clk 0:04:43.3]} 8. Bd3 {[%clk 0:04:50.9]} 8... O-O-O {[%clk 0:04:41.7]} 9. Na3 {[%clk 0:04:46.7]} 9... Kb8 {[%clk 0:04:40.7]} 10. Qb3 {[%clk 0:04:40.3]} 10... f6 {[%clk 0:04:38]} 11. Ba6 {[%clk 0:04:38.6]} 11... b6 {[%clk 0:04:35.3]} 12. O-O {[%clk 0:04:21.8]} 12... fxe5 {[%clk 0:04:32.8]} 13. Bg3 {[%clk 0:04:17.2]} 13... h5 {[%clk 0:04:30]} 14. f4 {[%clk 0:04:09.7]} 14... h4 {[%clk 0:04:26.4]} 15. Be1 {[%clk 0:04:05.2]} 15... exf4 {[%clk 0:04:24.9]} 16. exf4 {[%clk 0:04:03.9]} 16... g5 {[%clk 0:04:20.4]} 17. Bf2 {[%clk 0:03:54.2]} 17... g4 {[%clk 0:04:14.5]} 18. g3 {[%clk 0:03:50.1]} 18... hxg3 {[%clk 0:04:12.3]} 19. Bxg3 {[%clk 0:03:49]} 19... Nf6 {[%clk 0:04:07]} 20. Rac1 {[%clk 0:03:42.5]} 20... Qh7 {[%clk 0:04:04.7]} 21. c4 {[%clk 0:03:35.6]} 21... Ne4 {[%clk 0:04:02.7]} 22. cxd5 {[%clk 0:03:16.4]} 22... Nxg3 {[%clk 0:03:55.7]} 23. Qxg3 {[%clk 0:03:14.9]} 23... exd5 {[%clk 0:03:54.2]} 24. Rfd1 {[%clk 0:03:08.2]} 24... Bc8 {[%clk 0:03:44.9]} 25. Bxc8 {[%clk 0:03:00.4]} 25... Rxc8 {[%clk 0:03:42.9]} 26. Rxc6 {[%clk 0:02:58.9]} 26... Qe4 {[%clk 0:03:35.9]} 27. Qxg4 {[%clk 0:02:27.3]} 27... Rcg8 {[%clk 0:03:31.9]} 28. Qxg8+ {[%clk 0:02:03]} 28... Rxg8+ {[%clk 0:03:30.3]} 29. Kf1 {[%clk 0:02:01.2]} 29... Qg2+ {[%clk 0:03:28.2]} 30. Ke1 {[%clk 0:01:59.8]} 30... Re8+ {[%clk 0:03:25.7]} 31. Re6 {[%clk 0:01:55.1]} 31... Rxe6# {[%clk 0:03:23.1]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1781169932,
+    "rated": true,
+    "tcn": "lBZJcD0Sgv9RvKRKBK5Qmu6Zks70ft86bq65dr1TtOXPegTKDw3NnDNFweKDuD2MenMEowFwnw!Tac03sATCAJCwrwSJfdZ6O676cQ3CwE6!E!?!gfCofe!8QS8S",
+    "uuid": "c6de272c-6576-11f1-be2d-1183b401000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1k6/p1p5/1p2r3/3p4/5P2/N7/PP4qP/3RK3 w - - 0 32",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 563,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 571,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/satyavratawasthi1",
+      "username": "satyavratawasthi1",
+      "uuid": "6db0c7ce-f9d7-11f0-82af-4d8ef464dfaa"
+    },
+    "eco": "D02",
+    "id": "c6de272c-6576-11f1-be2d-1183b401000f",
+    "opening": "Queens Pawn Opening Zukertort Variation 2 e6 Bf4 Bd6",
+    "my_color": "white",
+    "my_result": "checkmated",
+    "my_rating": 563,
+    "opponent_rating": 571
+  },
+  {
+    "url": "https://www.chess.com/game/live/170044705662",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.11\"]\n[Round \"-\"]\n[White \"dcrompton92\"]\n[Black \"SpiffyZipper\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1b1Q1k1/p2p1ppp/2p5/8/3p2q1/P2P4/1PP2P1P/R6K b - - 1 20\"]\n[Timezone \"UTC\"]\n[ECO \"C47\"]\n[ECOUrl \"https://www.chess.com/openings/Four-Knights-Game-Gunsberg-Variation\"]\n[UTCDate \"2026.06.11\"]\n[UTCTime \"15:07:21\"]\n[WhiteElo \"585\"]\n[BlackElo \"555\"]\n[TimeControl \"300\"]\n[Termination \"dcrompton92 won by checkmate\"]\n[StartTime \"15:07:21\"]\n[EndDate \"2026.06.11\"]\n[EndTime \"15:09:58\"]\n[Link \"https://www.chess.com/game/live/170044705662\"]\n\n1. e4 {[%clk 0:04:56.7]} 1... e5 {[%clk 0:04:57.9]} 2. Nc3 {[%clk 0:04:55.5]} 2... Nc6 {[%clk 0:04:56.9]} 3. Nf3 {[%clk 0:04:55]} 3... Nf6 {[%clk 0:04:54.7]} 4. a3 {[%clk 0:04:53.9]} 4... Bc5 {[%clk 0:04:52.8]} 5. d3 {[%clk 0:04:51.9]} 5... Nd4 {[%clk 0:04:48]} 6. Nxd4 {[%clk 0:04:50.5]} 6... exd4 {[%clk 0:04:46.1]} 7. Nd5 {[%clk 0:04:48.9]} 7... Nxd5 {[%clk 0:04:43.5]} 8. exd5 {[%clk 0:04:47.8]} 8... O-O {[%clk 0:04:41.7]} 9. Be2 {[%clk 0:04:45.3]} 9... Re8 {[%clk 0:04:40.1]} 10. O-O {[%clk 0:04:40.3]} 10... Qf6 {[%clk 0:04:01.9]} 11. Bf3 {[%clk 0:04:37]} 11... Bd6 {[%clk 0:03:59.1]} 12. g3 {[%clk 0:04:34]} 12... c6 {[%clk 0:03:54.1]} 13. Bf4 {[%clk 0:04:32.9]} 13... Bxf4 {[%clk 0:03:52.1]} 14. gxf4 {[%clk 0:04:30.7]} 14... Qxf4 {[%clk 0:03:50.1]} 15. dxc6 {[%clk 0:04:29.8]} 15... bxc6 {[%clk 0:03:47]} 16. Re1 {[%clk 0:04:26.8]} 16... Qg5+ {[%clk 0:03:29.6]} 17. Kh1 {[%clk 0:04:22.7]} 17... Re6 {[%clk 0:03:22.5]} 18. Bg4 {[%clk 0:04:18.1]} 18... Rxe1+ {[%clk 0:03:18.9]} 19. Qxe1 {[%clk 0:04:16.2]} 19... Qxg4 {[%clk 0:03:17.9]} 20. Qe8# {[%clk 0:04:15.3]} 1-0\n",
+    "time_control": "300",
+    "end_time": 1781190598,
+    "rated": true,
+    "accuracies": {
+      "white": 82.45,
+      "black": 75.25
+    },
+    "tcn": "mC0Kbs5Qgv!Tiq9IltQBvBKBsJTJCJ8!fm98eg7TmvIRowYQcDRDwDTDJQXQfeDMgh8SvESedeMEe8",
+    "uuid": "3efda4c4-65a7-11f1-afe9-50359a01000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1Q1k1/p2p1ppp/2p5/8/3p2q1/P2P4/1PP2P1P/R6K b - - 1 20",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 585,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/dcrompton92",
+      "username": "dcrompton92",
+      "uuid": "59fbebdc-85ef-11ed-964b-852fcc57cf3c"
+    },
+    "black": {
+      "rating": 555,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "eco": "C47",
+    "id": "3efda4c4-65a7-11f1-afe9-50359a01000f",
+    "opening": "Four Knights Game Gunsberg Variation",
+    "my_color": "black",
+    "my_result": "checkmated",
+    "my_rating": 555,
+    "opponent_rating": 585
   }
 ]
