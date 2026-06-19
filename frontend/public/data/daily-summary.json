@@ -1286,5 +1286,13 @@
     "draws": 0,
     "losses": 0,
     "ratingEnd": 579
+  },
+  {
+    "date": "2026-06-18",
+    "games": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "ratingEnd": 587
   }
 ]
