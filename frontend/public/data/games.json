@@ -42354,5 +42354,43 @@
     "my_result": "win",
     "my_rating": 587,
     "opponent_rating": 577
+  },
+  {
+    "url": "https://www.chess.com/game/live/170425830072",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.19\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"LoveR-07\"]\n[Result \"0-1\"]\n[CurrentPosition \"6k1/p3p2p/1p2p1p1/4P3/6P1/5P2/7P/2q2K2 w - - 0 31\"]\n[Timezone \"UTC\"]\n[ECO \"B06\"]\n[ECOUrl \"https://www.chess.com/openings/Modern-Defense-with-1-e4-2.d4-d6\"]\n[UTCDate \"2026.06.19\"]\n[UTCTime \"16:22:34\"]\n[WhiteElo \"580\"]\n[BlackElo \"618\"]\n[TimeControl \"300\"]\n[Termination \"LoveR-07 won by resignation\"]\n[StartTime \"16:22:34\"]\n[EndDate \"2026.06.19\"]\n[EndTime \"16:31:04\"]\n[Link \"https://www.chess.com/game/live/170425830072\"]\n\n1. d4 {[%clk 0:04:54.9]} 1... d6 {[%clk 0:04:59.8]} 2. e4 {[%clk 0:04:53.1]} 2... g6 {[%clk 0:04:57.6]} 3. d5 {[%clk 0:04:51.6]} 3... Bg7 {[%clk 0:04:56.8]} 4. Nc3 {[%clk 0:04:49.6]} 4... Nf6 {[%clk 0:04:55.3]} 5. Bc4 {[%clk 0:04:47.5]} 5... O-O {[%clk 0:04:51.4]} 6. Nf3 {[%clk 0:04:44.8]} 6... c6 {[%clk 0:04:46.8]} 7. Bf4 {[%clk 0:04:31.9]} 7... cxd5 {[%clk 0:04:41.1]} 8. Nxd5 {[%clk 0:04:28.9]} 8... Nxd5 {[%clk 0:04:38.4]} 9. Bxd5 {[%clk 0:04:25.4]} 9... Bxb2 {[%clk 0:04:35.1]} 10. Rb1 {[%clk 0:04:21.9]} 10... Bc3+ {[%clk 0:04:30.9]} 11. Bd2 {[%clk 0:04:16.4]} 11... Bxd2+ {[%clk 0:04:12]} 12. Qxd2 {[%clk 0:04:11.8]} 12... Nc6 {[%clk 0:04:03.8]} 13. O-O {[%clk 0:04:04.9]} 13... Bg4 {[%clk 0:03:52]} 14. Nd4 {[%clk 0:04:00.5]} 14... Nxd4 {[%clk 0:03:37.8]} 15. Qxd4 {[%clk 0:03:56.7]} 15... Rc8 {[%clk 0:03:27.9]} 16. c4 {[%clk 0:03:32.6]} 16... b6 {[%clk 0:03:19.2]} 17. f3 {[%clk 0:03:22.4]} 17... Be6 {[%clk 0:03:02]} 18. Rfe1 {[%clk 0:03:04.5]} 18... Rc5 {[%clk 0:02:37.7]} 19. a4 {[%clk 0:02:42.9]} 19... Ra5 {[%clk 0:02:08.4]} 20. Bxe6 {[%clk 0:02:23.1]} 20... fxe6 {[%clk 0:02:08.3]} 21. Red1 {[%clk 0:02:10.6]} 21... Rxa4 {[%clk 0:01:58.5]} 22. e5 {[%clk 0:02:02.9]} 22... d5 {[%clk 0:01:45.7]} 23. g3 {[%clk 0:01:41.2]} 23... Rxc4 {[%clk 0:01:35.8]} 24. Qxc4 {[%clk 0:01:34]} 24... dxc4 {[%clk 0:01:25.9]} 25. Rxd8 {[%clk 0:01:29.4]} 25... Rxd8 {[%clk 0:01:25.8]} 26. Rf1 {[%clk 0:01:25.5]} 26... c3 {[%clk 0:01:21.9]} 27. g4 {[%clk 0:01:22.5]} 27... c2 {[%clk 0:01:18]} 28. Kf2 {[%clk 0:01:20.6]} 28... Rd1 {[%clk 0:01:04.7]} 29. Ke2 {[%clk 0:00:53.8]} 29... Rxf1 {[%clk 0:01:02.8]} 30. Kxf1 {[%clk 0:00:52]} 30... c1=Q+ {[%clk 0:01:02]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1781886664,
+    "rated": true,
+    "accuracies": {
+      "white": 74.08,
+      "black": 87.24
+    },
+    "tcn": "lBZRmC2UBJ92bs!TfA8!gvYQcDQJsJTJAJ2jabjsDlsldl5Qeg6EvBQBlB46kAXPnvESfe6IiyIGJS1SedGyCKRJowyABAJAd797bfAswEskgn7dnmdfmfk~",
+    "uuid": "147521c6-6bfb-11f1-9d7a-8a740101000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6k1/p3p2p/1p2p1p1/4P3/6P1/5P2/7P/2q2K2 w - - 0 31",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 580,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 618,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/lover-07",
+      "username": "LoveR-07",
+      "uuid": "49589390-6f16-11ef-add8-5d60f4e177f8"
+    },
+    "eco": "B06",
+    "id": "147521c6-6bfb-11f1-9d7a-8a740101000f",
+    "opening": "Modern Defense with 1 e4 d4 d6",
+    "my_color": "white",
+    "my_result": "resigned",
+    "my_rating": 580,
+    "opponent_rating": 618
   }
 ]
