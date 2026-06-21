@@ -42392,5 +42392,43 @@
     "my_result": "resigned",
     "my_rating": 580,
     "opponent_rating": 618
+  },
+  {
+    "url": "https://www.chess.com/game/live/170458901626",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.20\"]\n[Round \"-\"]\n[White \"ruhamahaidar\"]\n[Black \"SpiffyZipper\"]\n[Result \"1-0\"]\n[CurrentPosition \"r3k2r/5ppp/8/pp2P3/8/1P2PR2/6PP/3Q2K1 b kq - 0 22\"]\n[Timezone \"UTC\"]\n[ECO \"A01\"]\n[ECOUrl \"https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3\"]\n[UTCDate \"2026.06.20\"]\n[UTCTime \"10:55:15\"]\n[WhiteElo \"591\"]\n[BlackElo \"572\"]\n[TimeControl \"300\"]\n[Termination \"ruhamahaidar won by resignation\"]\n[StartTime \"10:55:15\"]\n[EndDate \"2026.06.20\"]\n[EndTime \"11:02:25\"]\n[Link \"https://www.chess.com/game/live/170458901626\"]\n\n1. b3 {[%clk 0:04:59.8]} 1... e5 {[%clk 0:04:51]} 2. Bb2 {[%clk 0:04:59.2]} 2... Nc6 {[%clk 0:04:47.6]} 3. e3 {[%clk 0:04:58]} 3... e4 {[%clk 0:04:44.1]} 4. f3 {[%clk 0:04:53.5]} 4... d5 {[%clk 0:04:42.8]} 5. c4 {[%clk 0:04:49.4]} 5... Nf6 {[%clk 0:04:35]} 6. Ne2 {[%clk 0:04:33.9]} 6... dxc4 {[%clk 0:04:17.2]} 7. Nd4 {[%clk 0:04:25.5]} 7... Nxd4 {[%clk 0:03:47]} 8. Bxd4 {[%clk 0:04:20.8]} 8... cxb3 {[%clk 0:03:03.8]} 9. axb3 {[%clk 0:04:17.3]} 9... Bb4 {[%clk 0:03:01.9]} 10. Ra4 {[%clk 0:04:02.1]} 10... a5 {[%clk 0:02:55.8]} 11. Bc4 {[%clk 0:03:45.5]} 11... c5 {[%clk 0:02:43.7]} 12. Bc3 {[%clk 0:03:28.7]} 12... Bxc3 {[%clk 0:02:11.8]} 13. Nxc3 {[%clk 0:03:27.1]} 13... Be6 {[%clk 0:01:56.7]} 14. O-O {[%clk 0:03:19.6]} 14... Bxc4 {[%clk 0:01:42.3]} 15. Rxc4 {[%clk 0:03:17.5]} 15... exf3 {[%clk 0:01:33.2]} 16. Rxf3 {[%clk 0:03:09.9]} 16... Nd5 {[%clk 0:01:20.2]} 17. Rxc5 {[%clk 0:02:58.7]} 17... Nxc3 {[%clk 0:01:13.9]} 18. Rxc3 {[%clk 0:02:56.4]} 18... Qd5 {[%clk 0:00:59.4]} 19. d4 {[%clk 0:02:45.5]} 19... b5 {[%clk 0:00:55.7]} 20. Rc5 {[%clk 0:02:39.8]} 20... Qe4 {[%clk 0:00:41.3]} 21. Re5+ {[%clk 0:02:36.2]} 21... Qxe5 {[%clk 0:00:32.3]} 22. dxe5 {[%clk 0:02:34.9]} 1-0\n",
+    "time_control": "300",
+    "end_time": 1781953345,
+    "rated": true,
+    "accuracies": {
+      "white": 83.76,
+      "black": 73.63
+    },
+    "tcn": "jr0Kcj5QmuKCnvZJkA!TgmJAmBQBjBArir9zayWGfAYIBszsbs6SegSAyACvfvTJAIJsIs7JlBXHsIJCIKCKBK",
+    "uuid": "84c12275-6c96-11f1-92b4-76ef4301000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3k2r/5ppp/8/pp2P3/8/1P2PR2/6PP/3Q2K1 b kq - 0 22",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 591,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/ruhamahaidar",
+      "username": "ruhamahaidar",
+      "uuid": "c361b0d2-439f-11f0-9ade-3d1a3fbabcf5"
+    },
+    "black": {
+      "rating": 572,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "eco": "A01",
+    "id": "84c12275-6c96-11f1-92b4-76ef4301000f",
+    "opening": "Nimzowitsch Larsen Attack Modern Variation Bb2 Nc6 e3",
+    "my_color": "black",
+    "my_result": "resigned",
+    "my_rating": 572,
+    "opponent_rating": 591
   }
 ]
