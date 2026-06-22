@@ -42430,5 +42430,39 @@
     "my_result": "resigned",
     "my_rating": 572,
     "opponent_rating": 591
+  },
+  {
+    "url": "https://www.chess.com/game/live/170525094120",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.21\"]\n[Round \"-\"]\n[White \"Venkat1985doss\"]\n[Black \"SpiffyZipper\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnb1k2r/pppp1Np1/7p/8/2B3n1/8/PPPP2PP/RNB1Q1K1 b kq - 0 10\"]\n[Timezone \"UTC\"]\n[ECO \"C24\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening-Berlin-Defense\"]\n[UTCDate \"2026.06.21\"]\n[UTCTime \"19:25:42\"]\n[WhiteElo \"601\"]\n[BlackElo \"564\"]\n[TimeControl \"300\"]\n[Termination \"Venkat1985doss won by resignation\"]\n[StartTime \"19:25:42\"]\n[EndDate \"2026.06.21\"]\n[EndTime \"19:26:54\"]\n[Link \"https://www.chess.com/game/live/170525094120\"]\n\n1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:58.9]} 2. Bc4 {[%clk 0:04:58.6]} 2... Nf6 {[%clk 0:04:57.2]} 3. Nf3 {[%clk 0:04:57.7]} 3... h6 {[%clk 0:04:55]} 4. Nxe5 {[%clk 0:04:56.1]} 4... Bc5 {[%clk 0:04:52]} 5. Nxf7 {[%clk 0:04:51.8]} 5... Qe7 {[%clk 0:04:48.1]} 6. O-O {[%clk 0:04:47.4]} 6... Qxe4 {[%clk 0:04:42.3]} 7. Re1 {[%clk 0:04:43]} 7... Bxf2+ {[%clk 0:04:37.2]} 8. Kxf2 {[%clk 0:04:40.7]} 8... Ng4+ {[%clk 0:04:35.5]} 9. Kg1 {[%clk 0:04:36.5]} 9... Qxe1+ {[%clk 0:04:25.4]} 10. Qxe1+ {[%clk 0:04:34.4]} 1-0\n",
+    "time_control": "300",
+    "end_time": 1782070014,
+    "rated": true,
+    "tcn": "mC0KfA!Tgv3VvK9IK170eg0CfeIngnTEngCede",
+    "uuid": "fe8406b9-6da6-11f1-acb3-f1d33401000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnb1k2r/pppp1Np1/7p/8/2B3n1/8/PPPP2PP/RNB1Q1K1 b kq - 0 10",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 601,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/venkat1985doss",
+      "username": "Venkat1985doss",
+      "uuid": "42900448-a641-11ed-955d-05e72abab693"
+    },
+    "black": {
+      "rating": 564,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "eco": "C24",
+    "id": "fe8406b9-6da6-11f1-acb3-f1d33401000f",
+    "opening": "Bishops Opening Berlin Defense",
+    "my_color": "black",
+    "my_result": "resigned",
+    "my_rating": 564,
+    "opponent_rating": 601
   }
 ]
