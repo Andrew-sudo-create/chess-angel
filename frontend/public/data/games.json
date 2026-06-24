@@ -42464,5 +42464,39 @@
     "my_result": "resigned",
     "my_rating": 564,
     "opponent_rating": 601
+  },
+  {
+    "url": "https://www.chess.com/game/live/170610532116",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.23\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"mula95\"]\n[Result \"1-0\"]\n[CurrentPosition \"4Q2k/pp4p1/6Pp/q2p4/2p5/P1P2P2/3K4/6R1 b - - 0 34\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/London-System-3...Bf5\"]\n[UTCDate \"2026.06.23\"]\n[UTCTime \"16:05:10\"]\n[WhiteElo \"573\"]\n[BlackElo \"578\"]\n[TimeControl \"300\"]\n[Termination \"SpiffyZipper won by checkmate\"]\n[StartTime \"16:05:10\"]\n[EndDate \"2026.06.23\"]\n[EndTime \"16:12:33\"]\n[Link \"https://www.chess.com/game/live/170610532116\"]\n\n1. d4 {[%clk 0:04:59.8]} 1... d5 {[%clk 0:04:58.2]} 2. Bf4 {[%clk 0:04:59.2]} 2... Nf6 {[%clk 0:04:50.4]} 3. Nf3 {[%clk 0:04:58.3]} 3... Bf5 {[%clk 0:04:45.5]} 4. Nc3 {[%clk 0:04:56.4]} 4... Nc6 {[%clk 0:04:42.7]} 5. a3 {[%clk 0:04:53.6]} 5... e6 {[%clk 0:04:41.5]} 6. e3 {[%clk 0:04:52.6]} 6... Bd6 {[%clk 0:04:39.7]} 7. Bd3 {[%clk 0:04:49.4]} 7... Bxf4 {[%clk 0:04:36.3]} 8. exf4 {[%clk 0:04:48]} 8... Bxd3 {[%clk 0:04:32.1]} 9. Qxd3 {[%clk 0:04:46.2]} 9... O-O {[%clk 0:04:30.5]} 10. Ne5 {[%clk 0:04:44.6]} 10... Nxe5 {[%clk 0:04:28]} 11. dxe5 {[%clk 0:04:43.6]} 11... Ng4 {[%clk 0:04:17.6]} 12. f3 {[%clk 0:04:39.1]} 12... Nh6 {[%clk 0:03:59.8]} 13. g4 {[%clk 0:04:37.5]} 13... Qh4+ {[%clk 0:03:55.7]} 14. Kd2 {[%clk 0:04:30]} 14... f6 {[%clk 0:03:34]} 15. Rhg1 {[%clk 0:04:20.7]} 15... fxe5 {[%clk 0:03:21.9]} 16. g5 {[%clk 0:04:17.5]} 16... Nf5 {[%clk 0:03:17.2]} 17. g6 {[%clk 0:04:08.4]} 17... h6 {[%clk 0:03:12.4]} 18. Ne2 {[%clk 0:04:00.5]} 18... Qxh2 {[%clk 0:03:04.7]} 19. fxe5 {[%clk 0:03:57.8]} 19... Qxe5 {[%clk 0:02:57]} 20. Raf1 {[%clk 0:03:54.3]} 20... Qxb2 {[%clk 0:02:46.3]} 21. Nf4 {[%clk 0:03:45]} 21... Rad8 {[%clk 0:02:40.2]} 22. Nxe6 {[%clk 0:03:43.2]} 22... c5 {[%clk 0:01:57.5]} 23. Nxd8 {[%clk 0:03:39.8]} 23... Rxd8 {[%clk 0:01:55.9]} 24. Qxf5 {[%clk 0:03:37.8]} 24... Qd4+ {[%clk 0:01:38.9]} 25. Kc1 {[%clk 0:03:34.1]} 25... Qa1+ {[%clk 0:01:25.6]} 26. Kd2 {[%clk 0:03:31.3]} 26... Qd4+ {[%clk 0:01:19.2]} 27. Qd3 {[%clk 0:03:30.1]} 27... Qa4 {[%clk 0:00:58.8]} 28. Re1 {[%clk 0:03:12.3]} 28... c4 {[%clk 0:00:55.9]} 29. Qe3 {[%clk 0:03:09.6]} 29... Qa5+ {[%clk 0:00:17.2]} 30. c3 {[%clk 0:03:07.3]} 30... Kf8 {[%clk 0:00:14.1]} 31. Qf4+ {[%clk 0:02:58]} 31... Kg8 {[%clk 0:00:10.8]} 32. Qf7+ {[%clk 0:02:54.4]} 32... Kh8 {[%clk 0:00:08.4]} 33. Re8+ {[%clk 0:02:52.9]} 33... Rxe8 {[%clk 0:00:04.5]} 34. Qxe8# {[%clk 0:02:51.8]} 1-0\n",
+    "time_control": "300",
+    "end_time": 1782231153,
+    "rated": true,
+    "tcn": "lBZJcD!Tgv6Lbs5Qiq0Smu9RftRDuDLtdt8!vKQKBKTEnvEVoE7Fel1ThgTKEMVLMU3VsmFpDKpKafKjmD47DSYIS797tLjBlcBaclaBLtByfeIAtuyGks!9uD9!D1!?e87818",
+    "uuid": "4f4fa454-6f1d-11f1-9d7a-8a740101000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "4Q2k/pp4p1/6Pp/q2p4/2p5/P1P2P2/3K4/6R1 b - - 0 34",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 573,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 578,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/mula95",
+      "username": "mula95",
+      "uuid": "702ccb4e-ae22-11ef-8bea-85f3f8386431"
+    },
+    "eco": "D02",
+    "id": "4f4fa454-6f1d-11f1-9d7a-8a740101000f",
+    "opening": "London System 3 Bf5",
+    "my_color": "white",
+    "my_result": "win",
+    "my_rating": 573,
+    "opponent_rating": 578
   }
 ]
