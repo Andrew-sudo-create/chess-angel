@@ -42532,5 +42532,73 @@
     "my_result": "win",
     "my_rating": 581,
     "opponent_rating": 555
+  },
+  {
+    "url": "https://www.chess.com/game/live/170782085348",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.27\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"Thrylikos7\"]\n[Result \"0-1\"]\n[CurrentPosition \"r5k1/4nrb1/p3p3/1p5p/1P1PQ1pP/3R2P1/5q1N/3K3R w - - 8 33\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4\"]\n[UTCDate \"2026.06.27\"]\n[UTCTime \"09:11:40\"]\n[WhiteElo \"573\"]\n[BlackElo \"577\"]\n[TimeControl \"300\"]\n[Termination \"Thrylikos7 won on time\"]\n[StartTime \"09:11:40\"]\n[EndDate \"2026.06.27\"]\n[EndTime \"09:19:14\"]\n[Link \"https://www.chess.com/game/live/170782085348\"]\n\n1. d4 {[%clk 0:04:56.6]} 1... d5 {[%clk 0:04:59.1]} 2. Bf4 {[%clk 0:04:55.2]} 2... e6 {[%clk 0:04:59]} 3. Nf3 {[%clk 0:04:52.8]} 3... g5 {[%clk 0:04:56.3]} 4. Be5 {[%clk 0:04:50.1]} 4... f6 {[%clk 0:04:53.8]} 5. Bxc7 {[%clk 0:04:23.4]} 5... Qxc7 {[%clk 0:04:48.8]} 6. e3 {[%clk 0:04:18.2]} 6... Bg7 {[%clk 0:04:41.3]} 7. Nc3 {[%clk 0:04:15.9]} 7... Ne7 {[%clk 0:04:39.7]} 8. Nb5 {[%clk 0:04:13.8]} 8... Qd7 {[%clk 0:04:31.7]} 9. c3 {[%clk 0:04:04.6]} 9... a6 {[%clk 0:04:30.7]} 10. Na3 {[%clk 0:03:40.9]} 10... O-O {[%clk 0:04:28.3]} 11. h4 {[%clk 0:03:21.3]} 11... g4 {[%clk 0:04:25]} 12. Nh2 {[%clk 0:03:10.9]} 12... f5 {[%clk 0:04:23.8]} 13. g3 {[%clk 0:03:05.4]} 13... h5 {[%clk 0:04:20]} 14. f3 {[%clk 0:03:04]} 14... Bh6 {[%clk 0:04:17.7]} 15. fxg4 {[%clk 0:02:57.7]} 15... fxg4 {[%clk 0:04:02.4]} 16. Bd3 {[%clk 0:02:40.1]} 16... Rf7 {[%clk 0:03:52.9]} 17. Qe2 {[%clk 0:02:37]} 17... Bg7 {[%clk 0:03:49.9]} 18. O-O-O {[%clk 0:02:32.5]} 18... Nbc6 {[%clk 0:03:45]} 19. e4 {[%clk 0:02:22.1]} 19... b5 {[%clk 0:03:41.1]} 20. exd5 {[%clk 0:02:16.8]} 20... Qxd5 {[%clk 0:03:37.1]} 21. Be4 {[%clk 0:02:01.6]} 21... Qxa2 {[%clk 0:03:35.2]} 22. Nc2 {[%clk 0:01:48.6]} 22... Bb7 {[%clk 0:03:29.2]} 23. Nb4 {[%clk 0:01:16.6]} 23... Bh6+ {[%clk 0:03:26.8]} 24. Kc2 {[%clk 0:01:08.8]} 24... Qa4+ {[%clk 0:03:23.7]} 25. b3 {[%clk 0:01:02.3]} 25... Nxb4+ {[%clk 0:03:21]} 26. cxb4 {[%clk 0:00:29.3]} 26... Qa2+ {[%clk 0:03:18]} 27. Kd3 {[%clk 0:00:19]} 27... Bxe4+ {[%clk 0:03:17.1]} 28. Qxe4 {[%clk 0:00:14.9]} 28... Qxb3+ {[%clk 0:03:15.3]} 29. Ke2 {[%clk 0:00:10.8]} 29... Qc4+ {[%clk 0:03:12.1]} 30. Rd3 {[%clk 0:00:06.9]} 30... Qc2+ {[%clk 0:03:10.6]} 31. Ke1 {[%clk 0:00:05]} 31... Qf2+ {[%clk 0:02:58.2]} 32. Kd1 {[%clk 0:00:01.3]} 32... Bg7 {[%clk 0:02:42.4]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1782551954,
+    "rated": true,
+    "tcn": "lBZJcD0Sgv2MDK1TKY7Ymu92bs!0sHYZksWOHq8!pFMEvpTLow3Nnv2VvELEft91dmV2ec5QuCXHCJZJtCJiqk6Xkz2VckiyjrQzszyiktXCmCirtmrAdtAkmeknedV2",
+    "uuid": "356a278c-7208-11f1-88e6-aebfe201000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r5k1/4nrb1/p3p3/1p5p/1P1PQ1pP/3R2P1/5q1N/3K3R w - - 8 33",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 573,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 577,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/thrylikos7",
+      "username": "Thrylikos7",
+      "uuid": "8db4ccf6-82c6-11eb-bef2-0bc10b6d5cfd"
+    },
+    "eco": "D02",
+    "id": "356a278c-7208-11f1-88e6-aebfe201000f",
+    "opening": "Queens Pawn Opening Zukertort Variation 2 e6 Bf4",
+    "my_color": "white",
+    "my_result": "timeout",
+    "my_rating": 573,
+    "opponent_rating": 577
+  },
+  {
+    "url": "https://www.chess.com/game/live/170784410774",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.06.27\"]\n[Round \"-\"]\n[White \"SpiffyZipper\"]\n[Black \"fhjjtfddh77\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2q2k1/ppp3pp/8/3p4/3Nnrb1/3KP3/PPP3PP/R4B1R w - - 0 15\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Englund-Gambit-2.dxe5-Nc6\"]\n[UTCDate \"2026.06.27\"]\n[UTCTime \"10:22:13\"]\n[WhiteElo \"565\"]\n[BlackElo \"597\"]\n[TimeControl \"300\"]\n[Termination \"fhjjtfddh77 won by resignation\"]\n[StartTime \"10:22:13\"]\n[EndDate \"2026.06.27\"]\n[EndTime \"10:24:21\"]\n[Link \"https://www.chess.com/game/live/170784410774\"]\n\n1. d4 {[%clk 0:04:57.1]} 1... e5 {[%clk 0:04:59.8]} 2. dxe5 {[%clk 0:04:55.5]} 2... Nc6 {[%clk 0:04:59.7]} 3. f4 {[%clk 0:04:54.2]} 3... d5 {[%clk 0:04:59.6]} 4. e3 {[%clk 0:04:45.3]} 4... f6 {[%clk 0:04:52.3]} 5. Nc3 {[%clk 0:04:43.8]} 5... fxe5 {[%clk 0:04:49.6]} 6. fxe5 {[%clk 0:04:41.7]} 6... Nxe5 {[%clk 0:04:48.8]} 7. Nf3 {[%clk 0:04:34.6]} 7... Nxf3+ {[%clk 0:04:47.2]} 8. Qxf3 {[%clk 0:04:32.8]} 8... Bb4 {[%clk 0:04:47.1]} 9. Bd2 {[%clk 0:04:29.9]} 9... Nf6 {[%clk 0:04:43.9]} 10. Ne2 {[%clk 0:04:19.5]} 10... Bxd2+ {[%clk 0:04:42.2]} 11. Kxd2 {[%clk 0:04:17.7]} 11... O-O {[%clk 0:04:42.1]} 12. Nd4 {[%clk 0:04:15.5]} 12... Bg4 {[%clk 0:04:37.5]} 13. Qf4 {[%clk 0:03:37.7]} 13... Ne4+ {[%clk 0:04:35.5]} 14. Kd3 {[%clk 0:03:31.7]} 14... Rxf4 {[%clk 0:04:33.3]} 0-1\n",
+    "time_control": "300",
+    "end_time": 1782555861,
+    "rated": true,
+    "tcn": "lB0KBK5QnDZJmu1TbsTKDKQKgvKvdv9zcl!Tsmzlel8!mB6EvDTClt9D",
+    "uuid": "105b1b86-7212-11f1-a4a0-df540901000f",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q2k1/ppp3pp/8/3p4/3Nnrb1/3KP3/PPP3PP/R4B1R w - - 0 15",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 565,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/spiffyzipper",
+      "username": "SpiffyZipper",
+      "uuid": "3e626256-d643-11ea-a3f1-a972ea4e7f14"
+    },
+    "black": {
+      "rating": 597,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/fhjjtfddh77",
+      "username": "fhjjtfddh77",
+      "uuid": "b5362cb0-829f-11f0-b136-71cad6d27573"
+    },
+    "eco": "A40",
+    "id": "105b1b86-7212-11f1-a4a0-df540901000f",
+    "opening": "Englund Gambit dxe5 Nc6",
+    "my_color": "white",
+    "my_result": "resigned",
+    "my_rating": 565,
+    "opponent_rating": 597
   }
 ]
